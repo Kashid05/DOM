@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(252, 189, 73);
+    text-align: center;
+    color: black;
+}
+.container h2{
+    font-size: 5vh;
+    background-color: lightblue;
+    border-radius: 10px;
+
+}
+img{
+    width: 70vh;
+    margin-left: 20vh;
+}
+button{
+    width: 25vh;
+    height: 5vh;
+    font-size: 3vh;
+    margin-bottom: 10vh;
+    background-color: rgb(248, 212, 248);
+    border: none;
+    border-radius: 20px;
+    margin-top: 10vh;
+}
+#data-container{
+    width: 170vh;
+    height: 100%;
+    margin: 0 auto;
+    box-shadow: 1px 4px 11px 0px;
+    padding: 60px;
+}
+h2{
+    font-size: 3vh;
+}
+span{
+    font-size: 3vh;
+    font-weight: bold;
+    margin-left: 5vh;
+}
+p{
+    font-size: 3vh;
+    text-align: justify;
+}
